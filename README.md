@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rigonp&label=Profile%20views&color=0e75b6&style=flat" alt="rigonp" /> </p>
 
-- 🔭 I’m currently working on **JobApp**
+- 🔭 I’m currently studing **Computer Science and Engineering", with specialization in Software System Engineering**
 
 - 🌱 I’m currently learning **Frameworks, Express.js etc**
 
