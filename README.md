@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studing **Computer Science and Engineering", with specialization in Software System Engineering**
 
-- 🌱 I’m currently learning **Frameworks, Express.js etc**
+- 🌱 I’m currently learning **Frameworks, Express.js, .NET etc**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rigonpira/](https://www.linkedin.com/in/rigonpira/)
 
