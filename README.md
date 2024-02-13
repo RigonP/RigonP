@@ -2,8 +2,6 @@
 <h3 align="center">A passionate software engineer from Kosova.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rigonp&label=Profile%20views&color=0e75b6&style=flat" alt="rigonp" /> </p>
-
 - 🔭 I’m currently studing **Computer Science and Engineering", with specialization in Software System Engineering**
 
 - 🌱 I’m currently learning **Frameworks, Express.js, .NET etc**
