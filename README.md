@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **pira.rigon@gmail.com or rp57421@ubt-uni.net**
 
+- My personal website **rigonp.github.io**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rigonpira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rigonpira/" height="30" width="40" /></a>
