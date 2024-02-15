@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pira.rigon@gmail.com or rp57421@ubt-uni.net**
 
-- My personal website **rigonp.github.io**
+- My personal website **[rigonp.github.io](https://rigonp.github.io/rigonp.github/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
