@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rigon</h1>
-<h3 align="center">A passionate software engineer from Kosova.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif">
 
 - 🔭 I graduated in **Computer Science and Engineering, specializing in Software Systems Engineering. I am currently pursuing a master's degree in Computer Science and Engineering.**
-- I am currently an Assistant Lecturer at the Faculty of Computer Science and Engineering at UBT College, where I teach the subjects Database Systems and Web Design and Development.
+- I am currently an Assistant Lecturer at the Faculty of Computer Science and Engineering at UBT College, where I teach the subjects Database Systems and Web Design and Development, Algorithm and Data Structures
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rigonpira/](https://www.linkedin.com/in/rigonpira/)
 
