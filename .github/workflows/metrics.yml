@@ -20,25 +20,15 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # Token-i personal (shtohet si secret, shih udhëzimet)
+          # Token-i personal (shtohet si secret METRICS_TOKEN)
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Username-i yt në GitHub
           user: rigonp
-
-          # Skedari që gjenerohet dhe ruhet në repo
           filename: github-metrics.svg
-
-          # Pamja
-          template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Belgrade
 
-          # Gjuhët më të përdorura
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
+          # Pa seksionet e paracaktuara — vetëm elementi vizual
+          base: ""
 
-          # Kalendari izometrik i kontributeve (i bukur)
+          # Kalendari izometrik 3D i kontributeve (i gjithë viti)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
