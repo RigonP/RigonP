@@ -48,7 +48,6 @@ class RigonPira:
 ```
 
 <!-- Subtle, classy nod to graduating #1 in the cohort — keep or remove as you like -->
-> *Graduated top of my master's cohort — but I'm more interested in what I build next than in the ranking behind me.*
 
 ---
 
