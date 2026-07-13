@@ -1,0 +1,44 @@
+name: Generate GitHub Metrics
+
+on:
+  # Rigjenerohet çdo ditë në mesnatë
+  schedule:
+    - cron: "0 0 * * *"
+  # Mund ta nisësh manualisht nga tab-i "Actions"
+  workflow_dispatch:
+  # Rigjenerohet sa herë që bën push në main
+  push:
+    branches: ["main"]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Token-i personal (shtohet si secret, shih udhëzimet)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Username-i yt në GitHub
+          user: rigonp
+
+          # Skedari që gjenerohet dhe ruhet në repo
+          filename: github-metrics.svg
+
+          # Pamja
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Belgrade
+
+          # Gjuhët më të përdorura
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+
+          # Kalendari izometrik i kontributeve (i bukur)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
