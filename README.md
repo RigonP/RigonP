@@ -1,7 +1,7 @@
 <!--
 ============================================================
   README for GitHub Profile — Rigon Pira
-  ✅  GitHub username: rigonp  (stats cards, streak, trophy, snake all set)
+  ✅  GitHub username: rigonp  (metrics, streak, snake all set)
   📌  This file must live in a repo named exactly  rigonp/rigonp
       (a public repo called "rigonp") to show on your profile.
   🔗  Note: the LinkedIn link uses "rigonpira" on purpose — that's the
@@ -26,7 +26,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=Building+intelligent+systems+%F0%9F%A4%96;RAG+pipelines%2C+.NET+backends+%26+research;University+Assistant+%40+UBT;Turning+data+into+decisions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=Building+intelligent+systems+%F0%9F%A4%96;Data+science%2C+.NET+backends+%26+research;University+Assistant+%40+UBT;Turning+data+into+decisions" />
 
 </div>
 
@@ -40,7 +40,7 @@ class RigonPira:
                             "MSc — Data Science & Artificial Intelligence"]
         self.location    = "Prishtina, Kosovo 🇽🇰  ·  Balkans"
         self.languages   = ["Shqip", "English"]
-        self.focus       = ["AI / ML", "RAG systems", "Full-stack dev", "Research"]
+        self.focus       = ["AI / ML", "Data Science", "Full-stack dev", "Research"]
 
     def current_mission(self):
         return "Bridging rigorous engineering with applied AI — " \
@@ -51,7 +51,7 @@ class RigonPira:
 ### 🧠 &nbsp; What I do
 
 - 🔬 &nbsp;**Research** — published on friend recommendation in dynamic social networks (BFS-based), presented at the **UBT International Conference 2025**
-- 🤖 &nbsp;**Applied AI** — building **RAG systems**, including an Albanian-language retrieval pipeline for thesis management
+- 🤖 &nbsp;**Applied AI** — building ML & NLP systems, including an Albanian-language pipeline for thesis management
 - 🌐 &nbsp;**Full-stack** — ASP.NET Core MVC apps, web platforms, and the occasional **Unity** physics game
 - 🎓 &nbsp;**Teaching** — supervising theses & mentoring CS students at **UBT**
 - 🌱 &nbsp;**Always exploring** — new models, tooling, and side projects at the edge of AI + software
@@ -102,11 +102,11 @@ class RigonPira:
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="Rigon Pira — GitHub metrics" />
+<img src="https://streak-stats.demolab.com?user=rigonp&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rigonp&theme=tokyonight&hide_border=true" />
+<img src="./github-metrics.svg" alt="Rigon Pira — contribution calendar" width="76%" />
 
 </div>
 
@@ -127,7 +127,7 @@ class RigonPira:
 
 ### 🤝 &nbsp; Let's build something
 
-Open to collaboration on **AI / RAG**, **full-stack** projects, and **research**.
+Open to collaboration on **AI / ML**, **full-stack** projects, and **research**.
 
 **📫 [pira.rigon@gmail.com](mailto:pira.rigon@gmail.com)  ·  [rigon.pira@ubt-uni.net](mailto:rigon.pira@ubt-uni.net)  ·  [LinkedIn](https://www.linkedin.com/in/rigonpira/)**
 
