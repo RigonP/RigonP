@@ -55,10 +55,10 @@ class RigonPira:
 
 ### 🧠 &nbsp; What I do
 
-- 🔬 &nbsp;**Research** — published on friend recommendation in dynamic social networks (BFS-based), presented at the **UBT International Conference 2025**
-- 🤖 &nbsp;**Applied AI** — building ML & NLP systems, including an Albanian-language pipeline for thesis management
-- 🌐 &nbsp;**Full-stack** — ASP.NET Core MVC apps, web platforms, and the occasional **Unity** physics game
-- 🎓 &nbsp;**Teaching** — supervising theses & mentoring CS students at **UBT**
+- 🔬 &nbsp;**Research** — applied work on machine learning and social-network algorithms
+- 🤖 &nbsp;**Applied AI** — building ML & NLP systems from prototype to production
+- 🌐 &nbsp;**Full-stack** — web apps, backends, and the occasional game
+- 🎓 &nbsp;**Teaching** — supervising theses & mentoring the next wave of CS students
 - 🌱 &nbsp;**Always exploring** — new models, tooling, and side projects at the edge of AI + software
 
 <img src="./assets/divider.svg" width="100%" />
