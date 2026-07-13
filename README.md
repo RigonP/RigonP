@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Rigon%20Pira&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Systems%20Engineer%20%C3%97%20AI%20%26%20Data%20Science&descAlignY=58&descSize=18" width="100%" />
+<img src="./assets/banner.svg" alt="Rigon Pira — Software Systems Engineer × AI & Data Science" width="100%" />
 
 <a href="https://www.linkedin.com/in/rigonpira/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -48,6 +48,7 @@ class RigonPira:
 ```
 
 <!-- Subtle, classy nod to graduating #1 in the cohort — keep or remove as you like -->
+> *Graduated top of my master's cohort — but I'm more interested in what I build next than in the ranking behind me.*
 
 ---
 
@@ -143,6 +144,6 @@ Open to collaboration on **AI / RAG**, **full-stack** projects, and **research**
 
 *Faleminderit që kalove nga këtu — thanks for stopping by!* 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+<img src="https://img.shields.io/badge/-%E2%9A%A1_Ndërto_diçka_të_mrekullueshme-8B5CF6?style=for-the-badge" />
 
 </div>
