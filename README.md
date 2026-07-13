@@ -126,6 +126,7 @@ class RigonPira:
   Create  .github/workflows/snake.yml  in this repo using Platane/snk.
   If you skip that, just delete this whole block.
 -->
+### 🐍 Watch my commits get eaten
 <div align="center">
   <img src="https://raw.githubusercontent.com/rigonp/rigonp/output/github-contribution-grid-snake-dark.svg" />
 </div>
