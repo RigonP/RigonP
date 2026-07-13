@@ -1,18 +1,21 @@
 <!--
 ============================================================
   README for GitHub Profile — Rigon Pira
-  ✅  GitHub username: rigonp  (metrics, streak, snake all set)
-  📌  This file must live in a repo named exactly  rigonp/rigonp
-      (a public repo called "rigonp") to show on your profile.
-  🔗  Note: the LinkedIn link uses "rigonpira" on purpose — that's the
-      correct LinkedIn handle, not the GitHub username.
+  ✅  GitHub username: rigonp
+  📌  Must live in a public repo named exactly  rigonp/rigonp
+  🎨  Custom assets:  ./assets/banner.svg  ·  ./assets/divider.svg
+  🔗  LinkedIn handle is "rigonpira" (not the GitHub username)
 ============================================================
 -->
 
 <div align="center">
 
+<!-- ░░ HERO ░░ Custom animated banner (assets/banner.svg) -->
 <img src="./assets/banner.svg" alt="Rigon Pira — Software Systems Engineer × AI & Data Science" width="100%" />
 
+<br/>
+
+<!-- ░░ SOCIAL ░░ -->
 <a href="https://www.linkedin.com/in/rigonpira/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -24,13 +27,14 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=rigonp&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" />
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=Building+intelligent+systems+%F0%9F%A4%96;Data+science%2C+.NET+backends+%26+research;University+Assistant+%40+UBT;Turning+data+into+decisions" />
+<!-- ░░ TYPING ░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&height=45&lines=Building+intelligent+systems+%F0%9F%A4%96;Data+science+%7C+.NET+backends+%7C+research;University+Assistant+%40+UBT;Turning+data+into+decisions" />
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
 ```python
 class RigonPira:
@@ -46,7 +50,8 @@ class RigonPira:
         return "Bridging rigorous engineering with applied AI — " \
                "and helping the next wave of students do the same."
 ```
----
+
+<img src="./assets/divider.svg" width="100%" />
 
 ### 🧠 &nbsp; What I do
 
@@ -56,9 +61,21 @@ class RigonPira:
 - 🎓 &nbsp;**Teaching** — supervising theses & mentoring CS students at **UBT**
 - 🌱 &nbsp;**Always exploring** — new models, tooling, and side projects at the edge of AI + software
 
----
+<img src="./assets/divider.svg" width="100%" />
 
 ### 🛠️ &nbsp; Tech Arsenal
+
+<div align="center">
+
+<!-- Compact animated icon strip -->
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,js,dotnet,react,nodejs,pytorch,tensorflow,sklearn,postgres,mysql,git,docker,unity,vscode&theme=dark&perline=8" />
+
+</div>
+
+<details>
+<summary><b>🔎 &nbsp;Full breakdown (click to expand)</b></summary>
+
+<br/>
 
 **Languages**
 
@@ -96,32 +113,65 @@ class RigonPira:
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+</details>
+
+<img src="./assets/divider.svg" width="100%" />
 
 ### 📊 &nbsp; GitHub in Numbers
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rigonp&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rigonp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigonp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.demolab.com?user=rigonp&theme=tokyonight&hide_border=true&border_radius=10" />
 
 <br/><br/>
 
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=rigonp&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+
+<br/><br/>
+
+<!-- Contribution activity line graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rigonp&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
+
+<br/><br/>
+
+<!-- 3D isometric contribution calendar (metrics.yml) -->
 <img src="./github-metrics.svg" alt="Rigon Pira — contribution calendar" width="76%" />
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
 <!--
-  🐍 Contribution snake — this needs a GitHub Action to generate the SVG.
-  Create  .github/workflows/snake.yml  in this repo using Platane/snk.
-  If you skip that, just delete this whole block.
+  🐍 Contribution snake — needs the GitHub Action .github/workflows/snake.yml
+  Uses Platane/snk and pushes to the `output` branch.
 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rigonp/rigonp/output/github-contribution-grid-snake-dark.svg" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/rigonp/rigonp/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rigonp/rigonp/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/rigonp/rigonp/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
+
+### 💬 &nbsp; Dev quote of the day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
 
 <div align="center">
 
@@ -138,3 +188,6 @@ Open to collaboration on **AI / ML**, **full-stack** projects, and **research**.
 <img src="https://img.shields.io/badge/-%E2%9A%A1_Ndërto_diçka_të_mrekullueshme-8B5CF6?style=for-the-badge" />
 
 </div>
+
+<!-- ░░ FOOTER WAVE ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:7C3AED,100:1B2735&height=120&section=footer" width="100%" />
