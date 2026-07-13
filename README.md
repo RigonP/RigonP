@@ -46,9 +46,6 @@ class RigonPira:
         return "Bridging rigorous engineering with applied AI — " \
                "and helping the next wave of students do the same."
 ```
-
-<!-- Subtle, classy nod to graduating #1 in the cohort — keep or remove as you like -->
-
 ---
 
 ### 🧠 &nbsp; What I do
@@ -105,16 +102,11 @@ class RigonPira:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rigonp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigonp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="./github-metrics.svg" alt="Rigon Pira — GitHub metrics" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=rigonp&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rigonp&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -125,7 +117,6 @@ class RigonPira:
   Create  .github/workflows/snake.yml  in this repo using Platane/snk.
   If you skip that, just delete this whole block.
 -->
-### 🐍 Watch my commits get eaten
 <div align="center">
   <img src="https://raw.githubusercontent.com/rigonp/rigonp/output/github-contribution-grid-snake-dark.svg" />
 </div>
