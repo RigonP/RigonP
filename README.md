@@ -30,7 +30,7 @@
 <br/><br/>
 
 <!-- ░░ TYPING ░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&height=45&lines=Building+intelligent+systems+%F0%9F%A4%96;Data+science+%7C+.NET+backends+%7C+research;University+Assistant+%40+UBT;Turning+data+into+decisions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&height=45&lines=Building+intelligent+systems+%F0%9F%A4%96;Data+science+%7C+.NET+backends+%7C+research;Academic+Staff+%40+UBT;Turning+data+into+decisions" />
 
 </div>
 
