@@ -55,7 +55,7 @@ class RigonPira:
 
 ### 🧠 &nbsp; What I do
 
-- 🔬 &nbsp;**Research** — applied work on machine learning and social-network algorithms
+- 🔬 &nbsp;**Research** — applied work on artificial intelligence and software engineering
 - 🤖 &nbsp;**Applied AI** — building ML & NLP systems from prototype to production
 - 🌐 &nbsp;**Full-stack** — web apps, backends, and the occasional game
 - 🎓 &nbsp;**Teaching** — supervising theses & mentoring the next wave of CS students
