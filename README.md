@@ -176,7 +176,7 @@ Open to collaboration on **AI / ML**, **full-stack** projects, and **research**.
 
 *Thanks for stopping by!* 👋
 
-<img src="https://img.shields.io/badge/-%E2%9A%A1_Nd%C3%ABrto_di%C3%A7ka_t%C3%AB_mrekullueshme-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-%E2%9A%A1_Build something awesome-8B5CF6?style=for-the-badge" />
 
 </div>
 
