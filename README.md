@@ -42,7 +42,7 @@ class RigonPira:
         self.role        = "Software Engineer & University Assistant @ UBT"
         self.education   = ["BSc — Software Systems Engineering",
                             "MSc — Data Science & Artificial Intelligence"]
-        self.location    = "Prishtina, Kosovo 🇽🇰  ·  Balkans"
+        self.location    = "Prishtina, Kosovo 🇽🇰"
         self.languages   = ["Shqip", "English"]
         self.focus       = ["AI / ML", "Data Science", "Full-stack dev", "Research"]
 
